@@ -1,0 +1,4 @@
+C:\Users\Deni\Desktop\CS232-PZ-VeljkoArsic\Debug\RoboRacer2D.exe
+C:\Users\Deni\Desktop\CS232-PZ-VeljkoArsic\Debug\RoboRacer2D.pdb
+C:\Users\veljk\Desktop\Development\Projekti\CS232-PZ-VeljkoArsic-2676-Zadaci za ispit\Debug\BrickBreaker.exe
+C:\Users\veljk\Desktop\Development\Projekti\CS232-PZ-VeljkoArsic-2676-Zadaci za ispit\Debug\BrickBreaker.pdb
